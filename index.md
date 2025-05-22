@@ -1,24 +1,4 @@
 # Prueba Archivo de comunicación  Ing R...
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Añadí el titulo para el markdown de prueba
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
