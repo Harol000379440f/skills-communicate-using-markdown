@@ -6,3 +6,8 @@
 `` python
 Saludo = "¡Hola, mundo!";
 ```
+
+- [ ] Realizar backup server github
+- [ ] Actualizar snatshops de respaldo
+- [ ] Crear pipeline usando TBD ay acciones de github
+- [ ] Actualizar documentación 
